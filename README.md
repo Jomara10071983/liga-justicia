@@ -8,4 +8,5 @@ Pueden hacer lo que quieran...
 
 LOLO 3 Dic 2023
 
-lolo 11 dic 2023, modificacion desde github a las 11:06 desde git hub
+lolo 11 dic 2023, modificacion desde github
+
